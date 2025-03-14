@@ -1,0 +1,15 @@
+{
+  "images" : [
+    {
+      "filename" : "a-photo-of-three-women-of-different-ages-and-body--OluvlhXfTmSKEx5TooDVxg-NKII6REpQRm6LpeI1ZAmQQ.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  },
+  "properties" : {
+    "preserves-vector-representation" : true
+  }
+}
